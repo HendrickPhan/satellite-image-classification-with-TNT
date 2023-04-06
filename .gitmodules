@@ -1,0 +1,4 @@
+[submodule "pytorch-image-models"]
+	path = pytorch-image-models
+	url = https://github.com/huggingface/pytorch-image-models.git
+	branch = main
