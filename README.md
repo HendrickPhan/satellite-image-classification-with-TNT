@@ -9,3 +9,5 @@ To train model run
 # Predict
 To predict run   
 `predict.ipynb`
+# Result
+After 17 epochs, model achieved `88.7311` Acc1
